@@ -3,7 +3,11 @@
 ![Project Banner](images/image.png)
 
 > A modern, fully responsive, and interactive frontend website built using HTML, CSS, and JavaScript with animations powered by GSAP. Designed to showcase smooth transitions, aesthetic UI, and clean code practices.
+## 🚀 Live Demo
 
+👉 [Play Here](https://theecoffeeshop.netlify.app/) 
+
+---
 ---
 
 ## 📌 Features
