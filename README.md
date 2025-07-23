@@ -1,6 +1,6 @@
 # 🌐 Project Name — Responsive Frontend Website
 
-![Project Banner](Website-Front-end-/Font-end-proj1/images/image.png)
+![Project Banner](images/image.png)
 
 > A modern, fully responsive, and interactive frontend website built using HTML, CSS, and JavaScript with animations powered by GSAP. Designed to showcase smooth transitions, aesthetic UI, and clean code practices.
 
